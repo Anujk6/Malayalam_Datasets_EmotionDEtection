@@ -1,6 +1,6 @@
 # Malayalam_Datasets_EmotionDEtection
 Malayalam Emotion Detection Dataset — MalEmo and EmoVec-Mal
-# MalEmo & EmoVec-Mal: Malayalam Emotion Detection Datasets
+# MalEmo: Malayalam Emotion Detection Datasets
 
 ## MalEmo
 A six-class Malayalam emotion detection dataset of 15,749 sentences,
